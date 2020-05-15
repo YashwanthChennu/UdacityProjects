@@ -1,0 +1,19 @@
+Run time Analysis
+
+#Task 0
+	It has run time complexity of O(1). This task doesnot have any of the loops or iterations and 
+there are 4 + 4 statements in the task so the time complexity is O(4) .For simplicity it is considered as O(1).
+
+#Task 1
+	It has run time complexity of O(n). This task has only one for loop with one conditional statement so n + 1
+so it can be considered as O(n)
+#Task 2
+	It has run time complexity of O(n). This task has only one for loop with one conditional statement so n + 1
+	so it can be considered as O(n)
+#Task 3
+	It has run time complexity of O(n). Since we have two loops which runs through all the records so n + n = O(2n) and
+ few conditional statement. For simplicity it is considered as o(n) .
+
+#Task 4
+	It has run time complexity of O(n). Since we have two loops which runs through all the records so n + n = O(2n) and
+ few conditional statement. For simplicity it is considered as o(n) .
